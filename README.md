@@ -721,6 +721,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Abhi Siva</b></sub>
                 </a>
             </td>
+               <td align="center">
+                <a href="https://github.com/Kwame-Minta2021">
+                    <img src="https://avatars.githubusercontent.com/u/99603435?v=4" width="100px;" alt="Newton Oracle"/>
+                    <br />
+                    <sub><b>Frederick Kwame Minta</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Dharmateja176">
                     <img src="https://avatars.githubusercontent.com/u/78612503?v=4" width="100px;" alt="Dharmateja176"/>
